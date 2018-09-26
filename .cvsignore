@@ -1,0 +1,7 @@
+clog
+.newer
+*.out
+*.log
+core.*
+GPFADriver
+fa
